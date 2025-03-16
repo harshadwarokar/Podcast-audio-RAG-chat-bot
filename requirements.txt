@@ -1,0 +1,8 @@
+streamlit
+requests
+sentence-transformers
+chromadb
+langchain
+tqdm
+pydantic
+
